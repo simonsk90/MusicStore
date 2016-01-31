@@ -1,0 +1,2 @@
+# MusicStore
+Entity framework training
